@@ -1,0 +1,4 @@
+Struts2是一个web应用框架。它不是一个Struts的新的发布版本，而是一个全新的框架。Struts2 是第二代基于Model-View-Controller (MVC)模型的web应用框架。 Struts2是java企业级web应用的可扩展性的框架。 它是WebWork和Struts社区合并后的产物。 这一版本的Struts2声称，Struts2会接近于原先版本Struts，并且会更容易使用。Struts2没有继承struts 1的血统，而是继承了webwork 的血统。
+Struts2 和Struts的构建是社区开发模式的最好实践和证明。事实上，第一版本的Struts设计的第一目标就是使MVC模式应用于web程序设计。 在过去10年，Struts在更好的web应用方面所做的工作是值得肯定的。在某些方面，Struts社区注意到这一框架的局限性，但在这个活跃的社区里，自动识别弱点和顽强不屈的精神，使得克服这些弱点是不困难的。 在深入学习MVC运行模式并同时引入一些新的建筑学方面的设计理念后，新的Struts2框架结构更清晰，使用更灵活方便。 这一新的结构包含应用逻辑的横切面拦截器，基于注释的配置以减少和去除XML形式的配置文件，功能强大的表达式语言，支持可更改、可重用UI组件的基于微MVC的标签库。Struts2 有两方面的技术优势，一是所有的Struts2应用程序都是基于client/server HTTP交换协议，The Java Servlet API 揭示了Java Servlet只是Java API的一个很小子集，这样我们可以在业务逻辑部分使用功能强大的Java 语言进行程序设计。
+
+更多Struts2信息
